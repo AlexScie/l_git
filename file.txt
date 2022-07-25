@@ -3,6 +3,7 @@ A
 A
 A
 A
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -16,3 +17,7 @@ AAAAAAAAAAAAAAAAAAAAAA
 =======
 AAAAAAAAAAAAAAAAAAAAAA
 >>>>>>> 796144f (fill file.txt)
+=======
+CCCCCCCCCCCCCCC
+AAAAAAAAAAAAAAAAAAAAAA
+>>>>>>> ce5ffca (add C in file)
