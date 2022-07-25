@@ -1,4 +1,4 @@
 # learning git
+HEllo, World!
 HEllo!
 BYE!
-HEllo, World!
