@@ -1,2 +1,2 @@
-# l_git
+# learning git
 HEllo!
